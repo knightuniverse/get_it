@@ -1,14 +1,17 @@
 {
   "name": "get_it",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple service locator, highly inspired by [get_it](https://pub.flutter-io.cn/packages/get_it)",
   "main": "index.js",
   "scripts": {
     "build": "tsc",
     "test": "jest"
   },
   "keywords": [
-    "typescript"
+    "ts",
+    "typescript",
+    "ioc",
+    "service locator"
   ],
   "author": "milo.hou",
   "license": "ISC",
